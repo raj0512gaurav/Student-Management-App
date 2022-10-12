@@ -1,0 +1,12 @@
+/* .fa-pen-to-square, .fa-trash-can{
+    pointer-events: none;
+}*/
+#searchInput{
+    display: flex;
+    width: 50vh;
+    margin: auto;
+}
+
+#actionCol{
+    margin: 0.25em;
+}
